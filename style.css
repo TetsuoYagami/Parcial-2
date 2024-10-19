@@ -1,0 +1,102 @@
+
+body{
+    background-image: url(/imagenes/Ocean.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "Abril Fatface", serif;
+    
+}
+
+main{
+    width: 1500px;
+    height: 2000px;
+    margin: 0 auto;
+}
+header{
+    width: 1500px;
+    height: 450px;
+    background-color: blue;
+}
+#cuadro1{
+    width: 500px;
+    height: 800px;
+    background-color: rgba(206, 206, 206, 0.5);
+    margin: 37px;
+    float: left;
+    border-radius: 25px;
+    border: 2px rgb(223, 223, 223) solid;
+}
+#cuadro1 p, h1, h2{
+    padding: 15px;
+    
+}
+#cuadro1 img{
+    width: 400px;
+    height: 300px;
+    margin: 20px;
+    position: absolute;
+}
+
+#cuadro2{
+    width: 800px;
+    height: 600px;
+    background-color: rgba(206, 206, 206, 0.5);
+    float: left;
+    margin: 37px;
+    border-radius: 25px;
+    border: 2px rgb(223, 223, 223) solid;
+}
+#cuadro2 p, h1, h2{
+    padding: 15px;
+}
+#cuadro2 img{
+    width: 500px;
+    height: 200px;
+    margin: 20px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#cuadro3{
+    width: 800px;
+    height: 600px;
+    background-color: rgba(206, 206, 206, 0.5);
+    float: right;
+    margin: 37px;
+    margin-right: 80px;
+    border-radius: 25px;
+    border: 2px rgb(223, 223, 223) solid;
+}
+#cuadro3 p, h1, h2{
+    padding: 15px;
+}
+#cuadro3 img{
+    width: 500px;
+    height: 200px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#cuadro4{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(206, 206, 206, 0.5);
+    float: left;
+    margin: 37px;
+    border-radius: 25px;
+    border: 2px rgb(223, 223, 223) solid;
+}
+#cuadro4 p, h1, h2{
+    padding: 5px;
+}
+#cuadro4 img{
+    width: 500px;
+    height: 400px;
+    margin: 20px;
+}
