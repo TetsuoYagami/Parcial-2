@@ -1,6 +1,6 @@
 
 body{
-    background-image: url(/imagenes/Ocean.jpg);
+    background-image: url(imagenes/Ocean.jpg);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
